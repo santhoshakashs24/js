@@ -1,0 +1,27 @@
+{
+  "name": "front-end-web-ui-framework-tools",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santhoshakashs24/js.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Akash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santhoshakashs24/js/issues"
+  },
+  "homepage": "https://github.com/santhoshakashs24/js#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
